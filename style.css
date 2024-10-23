@@ -1,0 +1,10 @@
+body {
+    background-image: url(fondo2.webp);
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-attachment: fixed; /* Mantiene la imagen de fondo fija al hacer scroll */
+    color: white; /* Cambia el color del texto a blanco */
+    height: 100vh; /* Hace que el fondo cubra toda la altura de la ventana */
+    margin: 0; /* Elimina márgenes del body */
+}
